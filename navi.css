@@ -1,0 +1,19 @@
+*{
+
+}
+
+.head{
+    display: flex;
+    padding: 10px;
+    background-color: pink;
+}
+.tabs{
+    display: flex;
+    list-style: none;
+}
+.tabs li{
+    padding: 5px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    f3
+}
